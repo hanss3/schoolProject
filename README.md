@@ -1,1 +1,1 @@
-# schoolProjetc
+# schoolProject
